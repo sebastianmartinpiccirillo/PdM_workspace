@@ -31,9 +31,9 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* Private define ------------------------------------------------------------*/
-#define COUNT_LED1 100
+#define COUNT_LED1 500
 #define COUNT_LED2 500
-#define COUNT_LED3 1000
+#define COUNT_LED3 500
 /* Private macro -------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/
 /* UART handler declaration */
